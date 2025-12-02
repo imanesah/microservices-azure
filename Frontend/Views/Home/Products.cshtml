@@ -1,0 +1,47 @@
+﻿@model List<Frontend.Models.ProductViewModel>
+
+@{
+    ViewData["Title"] = "Nos Produits";
+}
+
+<h2 class="mb-4">Nos Produits</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">@product.Name</h5>
+                    <p class="card-text text-success fw-bold">@product.Price.ToString("C")</p>
+                </div>
+                <div class="card-footer">
+                    <form asp-action="AddToCart" method="post">
+                        <input type="hidden" name="productId" value="@product.Id" />
+                        <input type="hidden" name="productName" value="@product.Name" />
+                        <input type="hidden" name="productPrice" value="@product.Price" />
+                        <button type="submit" class="btn btn-success w-100">
+                            <i class="fas fa-cart-plus"></i> Ajouter au panier
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<div class="mt-4 text-center">
+    <a href="@Url.Action("Cart")" class="btn btn-primary btn-lg">
+        <i class="fas fa-shopping-cart"></i> Voir mon panier (@Model.Count produits disponibles)
+    </a>
+</div>

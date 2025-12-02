@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Azure/azure-dev/main/schemas/v1.0/azure.yaml.json
+name: micro-shop
+metadata:
+  template: azd-init@1.21.3
+
+services:
+  api-gateway:
+    project: ./ApiGateway
+    host: containerapp
+    language: dotnet
+    docker:
+      path: ./ApiGateway/Dockerfile
+      context: ./ApiGateway
+      registry: crsk6jzmc2uuct2.azurecr.io
+
+  auth-service:
+    project: ./AuthService
+    host: containerapp
+    language: dotnet
+    docker:
+      path: ./AuthService/Dockerfile
+      context: ./AuthService
+      registry: crsk6jzmc2uuct2.azurecr.io
+
+  cart-service:
+    project: ./CartService
+    host: containerapp
+    language: dotnet
+    docker:
+      path: ./CartService/Dockerfile
+      context: ./CartService
+      registry: crsk6jzmc2uuct2.azurecr.io
+
+  frontend:
+    project: ./Frontend
+    host: containerapp
+    language: dotnet
+    docker:
+      path: ./Frontend/Dockerfile
+      context: ./Frontend
+      registry: crsk6jzmc2uuct2.azurecr.io
+
+  micro-shop:
+    project: ./MicroShop
+    host: containerapp
+    language: dotnet
+    docker:
+      path: ./MicroShop/Dockerfile
+      context: ./MicroShop
+      registry: crsk6jzmc2uuct2.azurecr.io

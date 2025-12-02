@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Inscription";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <h2 class="text-center mb-4">Créer un compte</h2>
+
+        @if (TempData["Error"] != null)
+        {
+            <div class="alert alert-danger">@TempData["Error"]</div>
+        }
+
+        <form asp-action="Register" method="post">
+            <div class="form-group mb-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="email" name="email" class="form-control" required />
+            </div>
+            <div class="form-group mb-3">
+                <label for="password" class="form-label">Mot de passe</label>
+                <input type="password" name="password" class="form-control" required />
+            </div>
+            <button type="submit" class="btn btn-success w-100">S'inscrire</button>
+        </form>
+
+        <div class="text-center mt-3">
+            <p>Déjà un compte ? <a href="@Url.Action("Login")">Se connecter</a></p>
+        </div>
+    </div>
+</div>

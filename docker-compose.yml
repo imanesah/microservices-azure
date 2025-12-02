@@ -1,0 +1,109 @@
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_DB: projetNet
+    ports:
+      - "5432:5432"
+    networks:
+      - microShopNetwork
+    volumes:
+      - postgresdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  redis:
+    image: redis:latest
+    container_name: redis
+    ports:
+      - "6379:6379"
+    networks:
+      - microShopNetwork
+    volumes:
+      - redisdata:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  authservice:
+    build:
+      context: ./AuthService
+      dockerfile: Dockerfile
+    container_name: authservice
+    ports:
+      - "5112:5112"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - microShopNetwork
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ConnectionStrings__Default=Host=postgres;Port=5432;Database=projetNet;Username=postgres;Password=1234;Timeout=30;CommandTimeout=30
+      - Jwt__Key=VotreCleSecreteTresLongueEtSecuriseePourLeJWT123456789
+    restart: on-failure
+
+  cartservice:
+    build:
+      context: ./CartService
+      dockerfile: Dockerfile
+    container_name: cartservice
+    ports:
+      - "5236:5236"
+    depends_on:
+      redis:
+        condition: service_healthy
+    networks:
+      - microShopNetwork
+    restart: on-failure
+
+  apigateway:
+    build:
+      context: ./ApiGateway
+      dockerfile: Dockerfile
+    container_name: apigateway
+    ports:
+      - "5157:5157"
+    depends_on:
+      - authservice
+      - cartservice
+    networks:
+      - microShopNetwork
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+    restart: on-failure
+
+  frontend:
+    build:
+      context: ./Frontend
+      dockerfile: Dockerfile
+    container_name: frontend
+    ports:
+      - "5000:80"
+    depends_on:
+      - apigateway
+    networks:
+      - microShopNetwork
+    volumes:
+      - datakeys:/root/.aspnet/DataProtection-Keys
+    restart: on-failure
+
+networks:
+  microShopNetwork:
+    driver: bridge
+
+volumes:
+  redisdata:
+  postgresdata:
+  datakeys:

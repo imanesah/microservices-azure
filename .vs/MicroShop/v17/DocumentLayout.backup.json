@@ -1,0 +1,957 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|ApiGateway\\ApiGateway.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|\u00C9l\u00E9ments de solution{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|\u00C9l\u00E9ments de solution{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|solutionrelative:authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|solutionrelative:authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|solutionrelative:authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\authservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|solutionrelative:authservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|ApiGateway\\ApiGateway.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\frontend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\cartservice\\cartservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|solutionrelative:cartservice\\cartservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\frontend\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\frontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\frontend\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\cartservice\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|solutionrelative:cartservice\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\cartservice\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|solutionrelative:cartservice\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|ApiGateway\\ApiGateway.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|ApiGateway\\ApiGateway.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\apigateway\\apigateway.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\cartservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|solutionrelative:cartservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\cartservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|solutionrelative:cartservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\cartservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|solutionrelative:cartservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\cartservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|solutionrelative:cartservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\cartservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|solutionrelative:cartservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\frontend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\frontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\frontend\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\frontend\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\frontend\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\frontend\\models\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\models\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\cartservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|solutionrelative:cartservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\cartservice\\cartservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|solutionrelative:cartservice\\cartservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|ApiGateway\\ApiGateway.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA27BBF7-7AF0-4B25-AEC2-BB5793A0346C}|MicroShop\\MicroShop.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\microshop\\microshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA27BBF7-7AF0-4B25-AEC2-BB5793A0346C}|MicroShop\\MicroShop.csproj|solutionrelative:microshop\\microshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\frontend\\frontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\frontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\cartservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|solutionrelative:cartservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|ApiGateway\\ApiGateway.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\cartservice\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|solutionrelative:cartservice\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\cartservice\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F200CAD-A612-4C97-9CA5-874ED3928392}|CartService\\CartService.csproj|solutionrelative:cartservice\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\authservice\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|solutionrelative:authservice\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\authservice\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|solutionrelative:authservice\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\authservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|solutionrelative:authservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\authservice\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|solutionrelative:authservice\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\authservice\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|solutionrelative:authservice\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\authservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|solutionrelative:authservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\authservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|solutionrelative:authservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|ApiGateway\\ApiGateway.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\frontend\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\frontend\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA27BBF7-7AF0-4B25-AEC2-BB5793A0346C}|MicroShop\\MicroShop.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\microshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA27BBF7-7AF0-4B25-AEC2-BB5793A0346C}|MicroShop\\MicroShop.csproj|solutionrelative:microshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA27BBF7-7AF0-4B25-AEC2-BB5793A0346C}|MicroShop\\MicroShop.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\microshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA27BBF7-7AF0-4B25-AEC2-BB5793A0346C}|MicroShop\\MicroShop.csproj|solutionrelative:microshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\microshop\\authservice\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4332FE60-8FF9-4475-AFD3-796179209655}|AuthService\\AuthService.csproj|solutionrelative:authservice\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\Views\\Home\\Login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\Views\\Home\\Cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Products.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\Views\\Home\\Products.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Services\\ApiGatewayService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\Services\\ApiGatewayService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 413,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Dockerfile",
+              "RelativeDocumentMoniker": "AuthService\\Dockerfile",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Dockerfile",
+              "RelativeToolTip": "AuthService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-25T09:28:02.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthService\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\appsettings.json",
+              "RelativeToolTip": "AuthService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T21:43:36.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T21:41:14.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\ApiGateway\\ocelot.json",
+              "RelativeToolTip": "ApiGateway\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T22:08:57.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\ApiGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "ApiGateway\\Dockerfile",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\ApiGateway\\Dockerfile",
+              "RelativeToolTip": "ApiGateway\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-25T09:29:58.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Dockerfile",
+              "RelativeDocumentMoniker": "Frontend\\Dockerfile",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Dockerfile",
+              "RelativeToolTip": "Frontend\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-25T09:30:40.22Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Program.cs",
+              "RelativeDocumentMoniker": "AuthService\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Program.cs",
+              "RelativeToolTip": "AuthService\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T20:25:01.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwE4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-11-25T09:35:52.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartService.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\CartService.csproj",
+              "RelativeDocumentMoniker": "CartService\\CartService.csproj",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\CartService.csproj",
+              "RelativeToolTip": "CartService\\CartService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T18:14:08.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Frontend\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Frontend\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswHkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T22:53:29.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "Frontend\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Program.cs",
+              "RelativeToolTip": "Frontend\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T22:15:15.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Home\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Login.cshtml.cs",
+              "RelativeToolTip": "Frontend\\Views\\Home\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:55:49.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Home\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Cart.cshtml.cs",
+              "RelativeToolTip": "Frontend\\Views\\Home\\Cart.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:55:45.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Home\\Products.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Home\\Products.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T22:55:04.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Products.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Products.cshtml.cs",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Home\\Products.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Products.cshtml.cs",
+              "RelativeToolTip": "Frontend\\Views\\Home\\Products.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:55:13.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "CartService\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Services\\CartService.cs",
+              "RelativeToolTip": "CartService\\Services\\CartService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwGoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:33:10.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "CartService\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Controllers\\CartController.cs",
+              "RelativeToolTip": "CartService\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:34:18.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T22:18:56.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T22:30:10.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T09:47:24.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApiGateway.csproj.user",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\ApiGateway\\ApiGateway.csproj.user",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj.user",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\ApiGateway\\ApiGateway.csproj.user",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-11-25T09:45:36.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CartService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CartService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T20:07:00.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CartService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CartService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:38:40.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CartService\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Models\\Product.cs",
+              "RelativeToolTip": "CartService\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:33:53.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Program.cs",
+              "RelativeDocumentMoniker": "CartService\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Program.cs",
+              "RelativeToolTip": "CartService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:36:11.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CartService\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\WeatherForecast.cs",
+              "RelativeToolTip": "CartService\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:50:20.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ApiGatewayService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Services\\ApiGatewayService.cs",
+              "RelativeDocumentMoniker": "Frontend\\Services\\ApiGatewayService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Services\\ApiGatewayService.cs",
+              "RelativeToolTip": "Frontend\\Services\\ApiGatewayService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T22:16:18.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Frontend\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\appsettings.Development.json",
+              "RelativeToolTip": "Frontend\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T09:47:54.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T09:47:43.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T09:47:36.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Models\\ViewModels.cs",
+              "RelativeDocumentMoniker": "Frontend\\Models\\ViewModels.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Models\\ViewModels.cs",
+              "RelativeToolTip": "Frontend\\Models\\ViewModels.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:07:48.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T22:56:04.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Home\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Home\\Cart.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T22:55:28.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\appsettings.json",
+              "RelativeDocumentMoniker": "CartService\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\appsettings.json",
+              "RelativeToolTip": "CartService\\appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T20:29:54.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CartService.http",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\CartService.http",
+              "RelativeDocumentMoniker": "CartService\\CartService.http",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\CartService.http",
+              "RelativeToolTip": "CartService\\CartService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-25T09:46:38.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T22:05:35.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MicroShop.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\MicroShop\\MicroShop.csproj",
+              "RelativeDocumentMoniker": "MicroShop\\MicroShop.csproj",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\MicroShop\\MicroShop.csproj",
+              "RelativeToolTip": "MicroShop\\MicroShop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-25T09:38:27.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Dockerfile",
+              "RelativeDocumentMoniker": "CartService\\Dockerfile",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Dockerfile",
+              "RelativeToolTip": "CartService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-25T09:29:24.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Frontend.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Frontend.csproj",
+              "RelativeDocumentMoniker": "Frontend\\Frontend.csproj",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Frontend.csproj",
+              "RelativeToolTip": "Frontend\\Frontend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T22:15:43.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApiGateway.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\ApiGateway\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\ApiGateway\\ApiGateway.csproj",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T22:30:16.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "CartService\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Models\\CartItem.cs",
+              "RelativeToolTip": "CartService\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:34:29.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "CartService\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\CartService\\Models\\Cart.cs",
+              "RelativeToolTip": "CartService\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:15:34.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "AuthService\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Services\\TokenService.cs",
+              "RelativeToolTip": "AuthService\\Services\\TokenService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T20:25:19.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "AuthService\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Services\\ITokenService.cs",
+              "RelativeToolTip": "AuthService\\Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T20:25:28.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Models\\User.cs",
+              "RelativeToolTip": "AuthService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T20:25:41.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "AuthService\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "AuthService\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T20:26:17.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "AuthService\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "AuthService\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T20:25:52.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthService\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AuthService\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T20:25:54.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T08:37:00.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T08:40:22.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T23:10:49.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\Frontend\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T23:09:35.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\MicroShop\\Program.cs",
+              "RelativeDocumentMoniker": "MicroShop\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\MicroShop\\Program.cs",
+              "RelativeToolTip": "MicroShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T22:11:56.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\MicroShop\\appsettings.json",
+              "RelativeDocumentMoniker": "MicroShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\MicroShop\\appsettings.json",
+              "RelativeToolTip": "MicroShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T21:58:27.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AuthService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\MicroShop\\AuthService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "AuthService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T21:45:54.773Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

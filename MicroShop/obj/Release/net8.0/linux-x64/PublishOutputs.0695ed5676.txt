@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\ilisi3\ModuleNet\MicroShop\MicroShop\bin\Release\net8.0\linux-x64\publish\MicroShop
+C:\Users\hp\Documents\ilisi3\ModuleNet\MicroShop\MicroShop\bin\Release\net8.0\linux-x64\publish\appsettings.Development.json
+C:\Users\hp\Documents\ilisi3\ModuleNet\MicroShop\MicroShop\bin\Release\net8.0\linux-x64\publish\appsettings.json
+C:\Users\hp\Documents\ilisi3\ModuleNet\MicroShop\MicroShop\bin\Release\net8.0\linux-x64\publish\MicroShop.dll
+C:\Users\hp\Documents\ilisi3\ModuleNet\MicroShop\MicroShop\bin\Release\net8.0\linux-x64\publish\MicroShop.deps.json
+C:\Users\hp\Documents\ilisi3\ModuleNet\MicroShop\MicroShop\bin\Release\net8.0\linux-x64\publish\MicroShop.runtimeconfig.json
+C:\Users\hp\Documents\ilisi3\ModuleNet\MicroShop\MicroShop\bin\Release\net8.0\linux-x64\publish\MicroShop.pdb

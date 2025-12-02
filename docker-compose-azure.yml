@@ -1,0 +1,52 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_DB: projetNet
+    ports:
+      - "5432:5432"
+
+  redis:
+    image: redis:latest
+    ports:
+      - "6379:6379"
+
+  authservice:
+    image: crsk6jzmc2uuct2.azurecr.io/authservice:latest
+    ports:
+      - "5112:5112"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ConnectionStrings__Default=Host=postgres;Port=5432;Database=projetNet;Username=postgres;Password=1234;Timeout=30;CommandTimeout=30
+      - Jwt__Key=VotreCleSecreteTresLongueEtSecuriseePourLeJWT123456789
+    depends_on:
+      - postgres
+      - redis
+
+  cartservice:
+    image: crsk6jzmc2uuct2.azurecr.io/cartservice:latest
+    ports:
+      - "5236:5236"
+    depends_on:
+      - redis
+
+  apigateway:
+    image: crsk6jzmc2uuct2.azurecr.io/apigateway:latest
+    ports:
+      - "5157:5157"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+    depends_on:
+      - authservice
+      - cartservice
+
+  frontend:
+    image: crsk6jzmc2uuct2.azurecr.io/frontend:latest
+    ports:
+      - "80:80"
+    depends_on:
+      - apigateway
